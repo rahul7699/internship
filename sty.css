@@ -1,0 +1,59 @@
+*{
+	font-family:Monsterrat;
+}
+#services_offered{
+	margin-top:20px;
+	padding:5px;
+	text-align:center;
+	
+}
+.abc{
+	margin-top:50px;
+}
+#gallery{
+	margin-top:100px;
+}
+.imgcon{
+	text-align:center;
+}
+
+.btn1{
+	margin-top:50px;
+	
+}
+.btn2{
+	margin-top:30px;
+	margin-bottom:50px;
+	
+}
+.link{
+	color:white;
+	font-size:30px;
+	margin-bottom:50px;
+
+}
+.link1{
+	color:white;
+	font-size:30px;
+	margin-top:30px;
+		background-color:navy;
+}
+.img22{
+	margin-top:10px;
+	text-align:center;
+	color:white;
+	font-size:20px;
+	margin-bottom:50px;
+}
+.img1{
+		padding:50px;
+	text-align:center;
+	background-color:red;
+}
+.img2{
+	
+	background-color:green;
+}
+.img3{
+	background-color:gray;
+}
